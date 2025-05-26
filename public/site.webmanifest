@@ -1,8 +1,14 @@
 {
-  "name": "Dyno AutoQ",
-  "short_name": "dyno-autoq",
+  "name": "Hello Astro",
+  "short_name": "Hello-Astro",
+  "description": "An Astro starter for corporate/marketing/blog websites.",
   "icons": [
-    { "src": "/favicon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192" },
     { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
-  ]
+  ],
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
 }

@@ -1,68 +1,43 @@
 ---
 title: About
-description: Description of Hello Astro Starter
+description: About AutoQ - Your Queue Management Solution
 pubDate: 2023-06-13T00:00:00.000Z
 coverSVG: ../../assets/svg/undraw/undraw_about_me.svg
 socialImage: ../../assets/undraw/undraw_about_me.png
 ---
 
-This is multi-purpose Astro starter template based on the following:
+Welcome to AutoQ - your comprehensive queue management solution designed to streamline customer flow and enhance operational efficiency.
 
-- [Astro](https://astro.build/) as a modern static site generator
-- [TypeScript](https://www.typescriptlang.org/)
-- [TailwindCSS](https://tailwindcss.com) and [TailwindUI](https://tailwindui.com)
-- [Iconify](https://iconify.design/)
-- [Hero Patterns](https://heropatterns.com/)
-- [unDraw](https://undraw.co/) for illustrations
-- [Markdown](https://www.markdownguide.org/)
-- [MDX](https://mdxjs.com/)
-- [Markdoc](https://markdoc.dev)
-- [Schema.org](https://schema.org/) and [JSON for Linking Data](https://json-ld.org/), type-checked using [schema-dts](https://github.com/google/schema-dts)
-- [Open Graph](https://ogp.me/) used by [Facebook](https://developers.facebook.com/docs/sharing/webmasters/#markup)
-- [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-- [AlpineJS](https://alpinejs.dev)
-- Local full text search using [Lunr](https://lunrjs.com)
-- Math equations using [KaTeX](https://katex.org) via [remark-math and rehype-katex](https://github.com/remarkjs/remark-math)
-- Diagrams using [Mermaid](https://mermaid-js.github.io/mermaid/#/), [Markmap](https://markmap.js.org) and [PlantUML](https://plantuml.com)
-- Open Street Map using [Leaflet](https://leafletjs.com/)
-- [reading-time](https://github.com/ngryman/reading-time)
-- [PhotoSwipe](https://photoswipe.com)
-- [exifr](https://mutiny.cz/exifr/)
-- [Swiper](https://swiperjs.com/)
-- [Remark Emoji](https://github.com/rhysd/remark-emoji)
-- [Remark PlantUML](https://github.com/akebifiky/remark-simple-plantuml)
-- [Rehype Mermaid](https://github.com/remcohaszing/rehype-mermaid)
-- [Expressive Code](https://expressive-code.com)
+## Our Mission
 
-It follows the [JAMstack architecture](https://jamstack.org) by automatically building a static version from the Git repository. The demo is deployed on [Github Pages](https://pages.github.com).
+At AutoQ, we're dedicated to transforming how businesses manage their queues and customer flow. Our innovative platform combines cutting-edge technology with user-friendly interfaces to create seamless queuing experiences.
 
-Hello Astro can used for any/all of the following:
+## Key Features
 
-- corporate/marketing site
-- blog
-- documentation site
-- portfolio site supporting photo galleries
+- **Real-time Queue Management**: Monitor and manage queues in real-time
+- **Smart Notifications**: Keep customers informed with automated updates
+- **Analytics Dashboard**: Make data-driven decisions with comprehensive insights
+- **Multi-channel Support**: Manage queues across physical and digital touchpoints
+- **Customizable Workflows**: Adapt the system to your specific business needs
+- **Integration Ready**: Seamlessly connect with your existing systems
 
-This starter is open source (MIT licence) - fork it and customise for your needs.
+## Why Choose AutoQ?
 
-## Features
+1. **Efficiency**: Reduce wait times and optimize resource allocation
+2. **Customer Satisfaction**: Enhance the waiting experience with clear communication
+3. **Scalability**: Grow your queue management system alongside your business
+4. **Data-Driven**: Make informed decisions based on comprehensive analytics
+5. **Cost-Effective**: Maximize resource utilization while minimizing operational costs
 
-- Author content in a mix of Markdown, MDX and Markdoc
-- Full-featured blog with frontmatter (title, description, author, date, image, tags)
-- High performance low overhead with minimal Javascript (AlpineJS)
-- Full text client based search of blog pages via lunrjs (search index only loaded on first invocation of search on a page)
-- Index page and individual pages for authors, categories and tags, including pagination
-- Support for RSS feed, sitemap and robots.txt
-- SVG design (unDraw, Hero Patterns, Iconify)
-- Support for code syntax highlighting
-- Full SEO support including Open Graph, Twitter Cards and Schema.org via JSON-LD
-- Full support for light and dark UI modes, as well as following system preferences, in accordance to TailwindCSS recommendation
-- Customised 404 error page
-- Display math equations using KaTeX via remark-math/rehype-katex (enclosed in `$`...`$` or `$$`...`$$`)
-- Display Mermaid, Markmap, PlantUML diagrams (authored as a code block with language `mermaid`, `markmap` and `plantuml`)
-- Display map at geo coordinates and zoom level using `Map` component (need to also include `extra: ['map']` in frontmatter to load CSS/JS assets for page)
-- Calculates and show reading time for blog posts
-- CSS/JS assets of external libraries loaded only when needed on a per page and per package basis - no unnecessary bloat
-- Photo gallery and lightbox using PhotoSwipe (including display of EXIF tags)
-- Carousel component using Swiper
-- Documentation pages (modelled after astro docs starter but using Tailwind)
+## Industries We Serve
+
+- Healthcare Facilities
+- Government Services
+- Retail Stores
+- Financial Institutions
+- Educational Institutions
+- Hospitality Sector
+
+## Get Started
+
+Ready to transform your queue management? [Contact us](/contact) to learn more about how AutoQ can help your business, or [view our pricing](/pricing) to find the perfect plan for your needs.

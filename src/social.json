@@ -2,37 +2,37 @@
   {
     "id": "email",
     "name": "Email",
-    "link": "mailto:info@hellothamcom",
+    "link": "mailto:info@autoq.co",
     "icon": "envelope"
   },
   {
     "id": "facebook",
     "name": "Facebook",
-    "link": "https://www.facebook.com/hellothamcom",
+    "link": "https://www.facebook.com/autoq",
     "icon": "facebook"
   },
   {
     "id": "github",
     "name": "Github",
-    "link": "https://github.com/hellotham",
+    "link": "https://github.com/autoq",
     "icon": "github"
   },
   {
     "id": "instagram",
     "name": "Instagram",
-    "link": "https://www.instagram.com/hellothamcom",
+    "link": "https://www.instagram.com/autoq",
     "icon": "instagram"
   },
   {
     "id": "linkedIn",
     "name": "LinkedIn",
-    "link": "https://www.linkedin.com/hellothamcom",
+    "link": "https://www.linkedin.com/company/autoq",
     "icon": "linkedin"
   },
   {
     "id": "phone",
     "name": "Phone",
-    "link": "tel:555-5555",
+    "link": "tel:+973-1234-5678",
     "icon": "telephone"
   }
 ]
